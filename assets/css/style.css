@@ -1,0 +1,15 @@
+body {
+        background-image: url('../images/weather.PNG');
+}
+
+
+
+    img{
+    	max-width: 350px;
+    	margin: 10px;
+    	
+    }
+
+	.left {
+		float: left;
+	}
